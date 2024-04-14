@@ -1,0 +1,69 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "img": "/img-1.jpg",
+         "name": "GreenWipe Flushables",
+         "ingredients": ["Water", "Aloe Barbadensis Leaf Juice", "Tocopheryl Acetate", "Sodium Benzoate"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      },
+      {
+         "id": 2,
+         "img": "/img-2.jpg",
+         "name": "EcoSoft Flushable Tissue",
+         "ingredients": ["Water", "Sodium Chloride", "Propylene Glycol", "Cocamidopropyl Betaine", "Methylisothiazolinone"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      },
+      {
+         "id": 3,
+         "img": "/img-3.jpg",
+         "name": "PureNature Cleansing Cloths",
+         "ingredients": ["Water", "Glycerin", "Chamomilla Recutita Flower Extract", "Phenoxyethanol", "Methylparaben"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      },
+      {
+         "id": 4,
+         "img": "/img-4.webp",
+         "name": "AquaFresh Hygiene Wipes",
+         "ingredients": ["Water", "Polysorbate 20", "Disodium EDTA", "Sodium Benzoate", "Citric Acid"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      },
+      {
+         "id": 5,
+         "img": "/img-5.jpg",
+         "name": "BioWipe EcoPads",
+         "ingredients": ["Water", "Aloe Vera Extract", "Vitamin E", "Disodium Cocoamphodiacetate", "Propylparaben"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      },
+      {
+         "id": 6,
+         "img": "/img-6.jpg",
+         "name": "NatureCleanse Soft Wipes",
+         "ingredients": ["Water", "Cucumber Extract", "Green Tea Extract", "Disodium EDTA", "Methylchloroisothiazolinone"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      },
+      {
+         "id": 7,
+         "img": "/img-7.jpg",
+         "name": "EcoPure Natural Wipes",
+         "ingredients": ["Water", "Bamboo Extract", "Hydrolyzed Jojoba Esters", "Decyl Glucoside", "Sodium Benzoate"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      },
+      {
+         "id": 8,
+         "img": "/img-8.png",
+         "name": "GentleTouch Flushable Cloths",
+         "ingredients": ["Water", "Witch Hazel Extract", "Glycerin", "Phenoxyethanol", "Ethylhexylglycerin"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      },
+
+      {
+         "id": 9,
+         "img": "/img-9.jpeg",
+         "name": "PurelySoft Eco Cloths",
+         "ingredients": ["Water", "Rosemary Extract", "Cocamidopropyl PG-Dimonium Chloride Phosphate", "Phenoxyethanol", "Methylparaben"],
+         "description": "Disposable wipes, also known as wet wipes or moist towelettes, are pre-moistened disposable cloths designed for various cleaning and personal hygiene purposes. They are typically made from non-woven materials, such as polyester or polypropylene, and are infused with water, cleansing agents, moisturizers, and sometimes fragrances or disinfectants."
+      }
+   ],
+   "harmful_ingredients": ["Methylisothiazolinone", "Methylparaben", "Propylparaben", "Disodium EDTA", "Phenoxyethanol", "Methylchloroisothiazolinone"]
+}
